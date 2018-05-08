@@ -1,0 +1,48 @@
+nom,adresse,arrond,Description de la zone couverte,Type de zone,Type de lieu,Nombre d'antennes,Nombre d'acc�s simultan�s,service,Date de mise en service,Numero,long,lat
+Cite des Associations,La canebiere,13001,Salle du 1 etage,Int�rieur,Batiment municipal,1,29,OUI,31/01/2012 00:00,12,5.3820077249,43.2983469344
+Bibliotheque Alcazar,58 cours Belsunce,13001,Salle du 3 etage,Int�rieur,Bibliotheque,1,29,OUI,10/02/2012 00:00,5,5.3768197433,43.2989416661
+Esplanade Bargemon,quai du port,13002,Place publique,Ext�rieur,Place publique,2,29,OUI,16/01/2012 00:00,1,5.3698577452,43.2968221637
+Espace Museal Bargemon,quai du port,13002,Espace d'exposition,Int�rieur,Batiment municipal,1,30,OUI,,2,5.3702404626,43.2969907647
+Office du tourisme,11 la canebiere,13001,Interieur et exterieur,Mixte,Batiment municipal,1,30,OUI,04/03/2013 00:00,3,5.3762078287,43.296057193
+La vieille charite,2 rue de la charite,13002,Billeterie et cafeteria,Mixte,Musee,1,30,OUI,15/12/2012 00:00,13,5.3679892875,43.3002467509
+Museum d'histoires naturelles,boulevard Longchamp,13004,Salle du 1 etage,Int�rieur,Musee,1,30,OUI,18/06/2013 00:00,19,5.3945648118,43.3038920871
+Musee des beaux arts,boulevard Longchamp,13004,Accueil du musee,Int�rieur,Musee,1,30,OUI,11/06/2013 00:00,15,5.3940382719,43.3045101832
+Bibliotheque des 5 avenues,impasse Fissiaux,13004,Salle,Int�rieur,Bibliotheque,1,30,OUI,03/06/2013 00:00,7,5.3963906636,43.3019969415
+Esplanade du Parc Longchamp,boulevard du jardin zoologique,13004,Parc,Ext�rieur,Parc et jardin,2,,OUI,15/02/2013 00:00,26,5.3964852356,43.3056930047
+Mairie 4/5,13 square Sidi Brahim,13005,Interieur de la mairie,Mixte,Mairie de secteur,1,,NON,,33,5.3990313055,43.2975991812
+Mairie 11/12,avenue Boulaya d'Arnaud,13012,Interieur de la mairie,Int�rieur,Mairie de secteur,1,,NON,,37,5.4433308848,43.2975528017
+Parc de la Moline,avenue de Montolivet,13012,Devant la bastide,Ext�rieur,Parc et jardins,1,30,OUI,15/12/2012 00:00,27,5.4240088569,43.3141781392
+Parc Pastre,157 avenue de Montredon,13008,Devant le batiment,Ext�rieur,Parc et jardins,1,30,OUI,15/12/2012 00:00,28,5.3668062307,43.239736885
+Bibliotheque de Bonneveine,Centre Vie de Bonneveine,13008,Salle,Int�rieur,Bibliotheque,2,30,OUI,15/05/2013 00:00,6,5.3887102169,43.2491639287
+Musee d'Art Contemporain,69 avenue d'Haifa,13008,Accueil et cafeteria,Int�rieur,Musee,1,29,OUI,25/09/2012 00:00,14,5.3899713203,43.2506589524
+Musee Borely,134 avenue Clot-Bey,13008,Billetterie et cafeteria,Int�rieur,Musee,1,30,OUI,04/06/2013 00:00,16,5.3820612761,43.2572941072
+Parc Borely,avenue du parc Borely,13008,Entree du parc,Ext�rieur,Parc et jardins,1,30,OUI,15/12/2012 00:00,25,5.379899273,43.2615893395
+Parc de Bagatelle,125 rue du Commandant Rolland,13008,Devant le batiment,Ext�rieur,Parc,1,,NON,,35,5.3823506326,43.270117928
+Mairie 9/10,150 bd Paul Claudel,13009,Devant le batiment,Mixte,Mairie de secteur,1,,NON,,36,5.4161017451,43.2676310914
+Bibliotheque de la grognarde,2 square Berthier,13011,Salle,Int�rieur,Bibliotheque,1,,EN TRAVAUX,,8,5.4341331857,43.2942313627
+Bibliotheque de saint Andre,6 bd Jean Salducci,13016,Salle,Int�rieur,Bibliotheque,1,,OUI,31/05/2013 00:00,10,5.3426436395,43.3574610745
+Mairie 13/14,72 avenue Paul Coxe,13014,Interieur de la mairie,Int�rieur,Mairie de secteur,2,,NON,,38,5.3799001602,43.3452774444
+Mairie 15/16 - Parc F. Billoux,246 rue de Lyon,13015,Parc,Ext�rieur,Mairie de secteur,1,,NON,,40,5.3664494301,43.3330790583
+Bibliotheque du merlan,Centre commercial du merlan,13014,Salle,Int�rieur,Bibliotheque,2,,OUI,30/05/2013 00:00,9,5.3992266671,43.331018246
+Archives Municipales,10 rue Clovis Hugues,13003,Salle de lecture,Int�rieur,Batiment municipal,1,,OUI,25/06/2013 00:00,11,5.3871743008,43.3090414503
+Musee Cantini,19 rue grignan,13006,Salle,Int�rieur,Musee,1,,OUI,15/02/2013 00:00,17,5.3781905183,43.2922125481
+Musee d'histoire de Marseille,17 square Belsunce,13001,Interieur et exterieur,Mixte,Musee,2,30,OUI,,18,5.3745515819,43.2972106102
+Mairie 1/7,125 la canebiere,13001,Devant le batiment,Ext�rieur,Place publique,1,,NON,,32,5.3830212785,43.2986996592
+Place Henri Verneuil,Place Henri Verneuil,13002,Place,Ext�rieur,Place publique,2,,NON,,31,5.3678993719,43.3090228939
+Palais du Pharo,58 Bd Charles Livron,13007,Une partie du parc,Ext�rieur,Parc et jardins,1,,OUI,15/02/2013 00:00,29,5.358688757,43.2942266668
+Parc Longchamp Jardin Zoologique,Bd du Jardin Zoologique,13004,Une partie du parc,Ext�rieur,Parc et jardins,1,,NON,,30,5.3976292806,43.3066467559
+Mairie 15/16 - Villa Laplace,246 rue de Lyon,13015,Cour interieure,Ext�rieur,Mairie de secteur,1,,NON,,39,5.3650486759,43.3332545804
+Stade de Luminy,rue Henri Cochet,13009,Stade,Ext�rieur,Stade,2,30,OUI,25/05/2012 00:00,24,5.4310795901,43.238014435
+Mairie 6/8,125 rue du commandant Rolland,13008,Interieur de la mairie,Int�rieur,Mairie de secteur,2,,NON,,34,5.3828816326,43.2706122579
+Palais Carli,Place Carli,13001,Cour interieure,Mixte,Batiment municipal,1,,NON,,41,5.3836021907,43.2960544741
+Base Nautique de Corbiere,250 plage de l'Estaque,13016,Plage,Ext�rieur,Plages,1,30,OUI,26/06/2013 00:00,20,5.2934914432,43.3586309109
+Notre Dame de la Garde,Montee de la bonne mere,13006,Parvis,Ext�rieur,Place publique,1,30,OUI,01/07/2013 00:00,4,5.3711275499,43.2842333191
+Parc balneaire du Prado 1,Promenade Georges Pompidou,13008,Plage,Ext�rieur,Plages,1,30,OUI,01/07/2013 00:00,21,5.3692754524,43.2644121828
+Parc balneaire du Prado 2,Promenade Georges Pompidou,13008,Plage,Ext�rieur,Plages,1,30,OUI,01/07/2013 00:00,22,5.3722368552,43.2622492377
+Parc balneaire du Prado 3,Avenue Pierre Mendes France,13008,Plage,Ext�rieur,Plages,1,30,OUI,01/07/2013 00:00,23,5.3732147733,43.2520222804
+Bureau Municipal de Proximite La Rose,33 avenue Francois Mignet,13013,Bureau municipal,Int�rieur,Bureau municipal,1,,NON,,42,5.427506312,43.3310299244
+Bureau Municipal de Proximite Saint Antoine,312 avenue de Saint Antoine,13015,Bureau municipal,Int�rieur,Bureau municipal,1,,NON,,45,5.3563036005,43.3763863575
+Bureau Municipal de Proximite Prado,1 bd de Louvain,13008,Bureau municipal,Ext�rieur,Bureau municipal,1,,NON,,44,5.3896547558,43.2763914772
+BMdP Pont de Vivaux,37 rue Francois Mauriac,13010,Bureau municipal,Int�rieur,Bureau municipal,1,,NON,,43,5.4172211692,43.2767887692
+Bureau Municipal de Proximite saint Barnabe,1 place Caire,13012,Bureau municipal,Int�rieur,Bureau municipal,1,,NON,,46,5.4186499627,43.3035357659
+GARDANNE,,,,,,,,,,,5.471736299999975,43.4525982
